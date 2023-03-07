@@ -8,4 +8,5 @@ The repository contains the following sample codes:
 1. Identifying target pixels for performance assessment.
 2. Performance evaluation.
 3. Visualization.
+4. Focal loss function
 
