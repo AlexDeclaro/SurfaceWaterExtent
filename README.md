@@ -5,7 +5,7 @@ A framework for gap-filling surface water extent imageries through satellite dat
 
 
 The repository contains the following sample codes:
-1. Performance evaluation w/ target pixels identification.
-2. Masked-Label-Gap-filled image Visualization.
-3. Focal loss function
-
+1. Focal loss function
+2. Target area visualization (Figure 3).
+3. Performance evaluation w/ target pixels identification (Producer's accuracy and rate of underestimation in Figure 4).
+4. Masked-Label-Gap-filled image Visualization.
